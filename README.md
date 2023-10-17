@@ -5,7 +5,7 @@ Kamila Kolpashnikova
 
 ## Overview
 
-The code in this replication of the paper "Fear of falling: Scoping review and
+The code in this repo is replication of the paper "Fear of falling: Scoping review and
 topic analysis using natural language" published in PLOS ONE 2023. Python files 
 for replication are located in 'src' folder. Additional data, such as a curated
 list of stopwords and cross-references across different databases, are in the 
